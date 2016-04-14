@@ -1,5 +1,5 @@
 /**
-  * Created by Lital on 4/13/2016.
+  * Created by Gennady on 4/13/2016.
   */
 
 package com.sysgears.example.boot

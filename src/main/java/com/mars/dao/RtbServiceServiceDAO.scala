@@ -1,7 +1,7 @@
 package com.mars.dao
 
 /**
-  * Created by Lital on 4/13/2016.
+  * Created by Gennady on 4/13/2016.
   */
 
 import akka.event.slf4j.SLF4JLogging
